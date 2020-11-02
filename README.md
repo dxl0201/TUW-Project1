@@ -1,5 +1,5 @@
+Project: Guessing Game
 make was run on:
-deandre 285
-Nov  1 23:22
+Mon Nov  2 13:49:47 EST 2020
 Number of lines of code:
 41
